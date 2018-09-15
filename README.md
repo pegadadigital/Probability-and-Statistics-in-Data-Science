@@ -1,8 +1,6 @@
 # Probability and Statistics in Data Science
-# Curso UCSanDiegoX: DSE210x
-# https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE210x+3T2018/course/
-
-# Curso da Universidade San Diego
+Curso da Universidade San Diego UCSanDiegoX: DSE210x
+https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE210x+3T2018/course/
 
 # Instrutores
 ## Alon Orlitsky
