@@ -1,5 +1,6 @@
 # Probability and Statistics in Data Science
 Curso da Universidade San Diego UCSanDiegoX: DSE210x
+
 https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE210x+3T2018/course/
 
 # Instrutores
